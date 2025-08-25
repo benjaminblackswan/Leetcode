@@ -1,4 +1,4 @@
-# Leecode
+# Leetcode
 
 2025-08-25, day 2 of leetcode
 
